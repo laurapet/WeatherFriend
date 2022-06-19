@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherFriend</string>
+    <string name="no_city_found">Stadt nicht gefunden</string>
+    <string name="double_city">Diese Stadt ist bereits in deiner Liste</string>
+    <string name="no_city_in_list">Für Wettervorhersage Stadt hinzufügen</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="future">Du kannst nicht weiter in die Zukunft blicken</string>
+    <string name="past">Du kannst nicht weiter in die Vergangenheit blicken</string>
+    <string name="saved_cities">Deine gespeicherten Städte</string>
+    <string name="no_weather_possible">Kein Wetter verfügbar, da noch keine Stadt gewählt wurde</string>
+</resources>
